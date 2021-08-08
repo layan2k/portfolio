@@ -15,7 +15,7 @@
     align-items:center;
 }
 .web-option a:hover{
-    color:aqua;
+    color:rgba(27, 2, 247, 0.514);
 }
 .web-option a:active{
     color:lime;
