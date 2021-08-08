@@ -9,7 +9,7 @@ function About() {
                 <div className="about-info">
                     Hey There 👋, I'm
                     <br /><span className="Name">Leslie D. Shumba.</span>
-                    <br /> Web Devloper. Software Engineer.
+                    <br /> Web Developer. Software Engineer.
                     <br /> I love playing around the web.
                 </div>
                 <div className="about-photo">
