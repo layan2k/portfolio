@@ -1,7 +1,7 @@
 export const WorkData= [
     {
-        company:"Middleman-Dev",
-        Role:"Full Stack Developer",
+        company:"Middleman-Tec",
+        Role:"Full-Stack Developer",
         dateJoining: "01-05-2021",
         dateEnd:"Present",
         companyLogo: require("../../assets/mmd.png").default,
@@ -14,7 +14,7 @@ export const WorkData= [
         dateJoining: "01-06-2021",
         dateEnd:"05-06-2022",
         companyLogo: require("../../assets/alx.png").default,
-        work:"Software Engineering Certificate(1-year). The Program is done under the partnership of ALX and Holberton School",
+        work:"Software Engineering Certificate(1-year). The Program is done under the partnership of ALX and Holberton School.",
 
     }
 ]
