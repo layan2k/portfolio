@@ -26,7 +26,7 @@ export const ProjectData=[
     {
         id:4,
         title:"LESTECH, ALX Application",
-        about:"A Near Full Resposive Static page. I used this as my application to apply for the ALX Software Engineering Programme.",
+        about:"A Near Fully Resposive Static page. I used this as my application for the ALX Software Engineering Programme.",
         tags:["HTML","CSS","JavaScript"],
         github:"https://github.com/layan2k/ALX",
         demo: "https://lestech.netlify.app/",
