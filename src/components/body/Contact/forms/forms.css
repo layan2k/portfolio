@@ -71,14 +71,14 @@
         max-height: 100%;
     }
     .email{
-        max-width: 100%;
+        max-width: 95%;
     }
     .text-area{
-        max-width: 100%;
+        max-width: 95%;
     }
 
     .name{
-        max-width: 100%;
+        max-width: 95%;
     }
 
 }
