@@ -46,6 +46,10 @@ export const SkillsData=
                 name:"MongoDB",
                 icon:<i class="devicon-mongodb-plain colored"></i>,
             },
+            {
+                name:"Flask",
+                icon:<i class="devicon-flask-original"></i>
+            },
         ]
     },
     {
@@ -54,6 +58,10 @@ export const SkillsData=
             {
                 name:"C Programming",
                 icon:<i class="devicon-c-plain colored"></i>
+            },
+            {
+                name:"C++",
+                icon:<i class="devicon-cplusplus-plain colored"></i>
             },
             {
                 name:"Python",
