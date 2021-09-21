@@ -5,18 +5,18 @@ function Mobile({isOpen, setisOpen}) {
     return (
         <div className='mobile'>
             <div className="close-icon" onClick={() => setisOpen(!isOpen)}>
-            <i class="fi-rr-cross-circle close-icon"></i>
+            <i class="fi-rr-cross"></i>
             </div>
             <div className="mobile-options">
                 <div className="mobile-option">
             <a href="#projects" >
-                <i class="fi-rr-edit-alt option-icons"></i>Projects
+                <i class="fi-rr-edit-alt"></i>Projects
                 </a>
                 </div>
 
             <div className="mobile-option">
                 <a href="#skills" >
-                <i class="fi-rr-laptop option-icons"></i>Skills
+                <i class="fi-rr-laptop"></i>Skills
                 </a>
             </div>
             <div className="mobile-option">
@@ -26,7 +26,7 @@ function Mobile({isOpen, setisOpen}) {
             </div>
             <div className="mobile-option">
                 <a href="#contact" >
-                <i class="fi-rr-portrait option-icons"></i>Contact
+                <i class="fi-rr-portrait"></i>Contact
                 </a>
             </div>
             </div>

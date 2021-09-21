@@ -67,6 +67,7 @@
 .download:hover
 {
     background-color: blue;
+    color: white;
 
 }
 .download:active{

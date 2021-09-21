@@ -21,7 +21,7 @@ function Contact() {
                     </div>
                     <div className="download">
                         <a download href={require('../../../assets/icons/Resume_Leslie.pdf').default}>
-                        <i class="fi-rr-cloud-download download-icon"></i>
+                        <i class="fi-rr-cloud-download"></i>
                             Download Resume</a>
                     </div>
                 </div>

@@ -4,7 +4,7 @@ import './footer.css'
 function Footer() {
     return (
         <div className="footer">
-            Made With ReactJS and CSS Styling By Leslie D. Shumba .
+            Made With ReactJS  By Leslie D. Shumba .
         </div>
     )
 }

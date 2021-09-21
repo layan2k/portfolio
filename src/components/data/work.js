@@ -1,7 +1,7 @@
 export const WorkData= [
     {
         company:"Middleman-Tec",
-        Role:"Full-Stack Developer",
+        Role:"Full-Stack Developer (Part-Time)",
         dateJoining: "01-05-2021",
         dateEnd:"Present",
         companyLogo: require("../../assets/mmd.png").default,
