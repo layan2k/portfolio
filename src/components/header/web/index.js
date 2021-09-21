@@ -6,12 +6,12 @@ function Web() {
         <div className="web">
             <div className="web-option">
                 <a href="#projects" >
-                <i class="fi-rr-edit-alt"></i>Projects
+                <i class="fi-rr-edit-alt option-icons"></i>Projects
                 </a>
             </div>
             <div className="web-option">
                 <a href="#skills" >
-                <i class="fi-rr-laptop"></i>Skills
+                <i class="fi-rr-laptop option-icons"></i>Skills
                 </a>
             </div>
             <div className="web-option">
@@ -21,7 +21,7 @@ function Web() {
             </div>
             <div className="web-option">
                 <a href="#contact" >
-                <i class="fi-rr-portrait"></i>Contact
+                <i class="fi-rr-portrait option-icons"></i>Contact
                 </a>
             </div>
         </div>
