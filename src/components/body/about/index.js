@@ -13,7 +13,7 @@ function About() {
                     <br /> I love playing around the web.
                 </div>
                 <div className="about-photo">
-                    <img src={require('../../../assets/webpic2.png').default} className='picture' alt="About Pic" />
+                    <img src={require('../../../assets/webpic3.png').default} className='picture' alt="About Pic" />
 
                 </div>
             </div>
