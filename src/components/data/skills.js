@@ -12,14 +12,6 @@ export const SkillsData=
                 name:"Tailwind CSS",
                 icon: <i class="devicon-tailwindcss-plain colored"></i>,
             },
-            {
-                name:"Bootstrap",
-                icon:<i class="devicon-bootstrap-plain colored"></i>,
-            },
-            {
-                name:"Javascript",
-                icon:<i class="devicon-javascript-plain colored"></i>,
-            },
         ]
     },
     {
@@ -43,12 +35,21 @@ export const SkillsData=
                 icon: <i class="devicon-express-original colored"></i>,
             },
             {
+                name:"Flask",
+                icon:<i class="devicon-flask-original"></i>
+            },
+        ]
+    },
+    {
+        type:"Database",
+        list:[
+            {
                 name:"MongoDB",
                 icon:<i class="devicon-mongodb-plain colored"></i>,
             },
             {
-                name:"Flask",
-                icon:<i class="devicon-flask-original"></i>
+                name:"MySQL",
+                icon:<i class="devicon-mysql-plain-wordmark colored"></i>
             },
         ]
     },
@@ -60,12 +61,12 @@ export const SkillsData=
                 icon:<i class="devicon-c-plain colored"></i>
             },
             {
-                name:"C++",
-                icon:<i class="devicon-cplusplus-plain colored"></i>
-            },
-            {
                 name:"Python",
                 icon: <i class="devicon-python-plain colored"></i>,
+            },
+            {
+                name:"Javascript",
+                icon:<i class="devicon-javascript-plain colored"></i>,
             },
             // {
             //     name:"Shell Scripting (Bash)",

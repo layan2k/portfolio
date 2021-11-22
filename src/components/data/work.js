@@ -9,7 +9,7 @@ export const WorkData= [
 
     },
     {
-        company:"ALX/Holberton School",
+        company:"ALX_AFRICA",
         Role:"Student",
         dateJoining: "01-06-2021",
         dateEnd:"05-06-2022",
