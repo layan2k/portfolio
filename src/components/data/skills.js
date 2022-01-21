@@ -44,7 +44,7 @@ export const SkillsData=
         type:"DevOps",
         list:[
             {
-                name:"NGINX,
+                name:"NGINX",
                 icon:<i class="devicon-nginx-original colored"></i>,
             },
             {
