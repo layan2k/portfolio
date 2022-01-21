@@ -40,14 +40,14 @@ export const SkillsData=
             },
         ]
     },
-        {
+    {
         type:"DevOps",
         list:[
             {
                 name:"NGINX,
                 icon:<i class="devicon-nginx-original colored"></i>,
             },
-                        {
+            {
                  name:"Docker",
                  icon: <i class="devicon-docker-plain-wordmark colored"></i>,
             },
@@ -77,7 +77,7 @@ export const SkillsData=
                 name:"C Programming",
                 icon:<i class="devicon-c-plain colored"></i>
             },
-                        {
+            {
                 name:"C++",
                 icon:<i class="devicon-cplusplus-plain-wordmark colored"></i>
             },
