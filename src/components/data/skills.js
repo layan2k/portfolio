@@ -40,6 +40,23 @@ export const SkillsData=
             },
         ]
     },
+        {
+        type:"DevOps",
+        list:[
+            {
+                name:"NGINX,
+                icon:<i class="devicon-nginx-original colored"></i>,
+            },
+                        {
+                 name:"Docker",
+                 icon: <i class="devicon-docker-plain-wordmark colored"></i>,
+            },
+            {
+                 name:"Shell Scripting (Bash)",
+                 icon: <i class="devicon-bash-plain colored"></i>,
+            },
+        ]
+    },
     {
         type:"Database",
         list:[
@@ -60,6 +77,10 @@ export const SkillsData=
                 name:"C Programming",
                 icon:<i class="devicon-c-plain colored"></i>
             },
+                        {
+                name:"C++",
+                icon:<i class="devicon-cplusplus-plain-wordmark colored"></i>
+            },
             {
                 name:"Python",
                 icon: <i class="devicon-python-plain colored"></i>,
@@ -68,10 +89,7 @@ export const SkillsData=
                 name:"Javascript",
                 icon:<i class="devicon-javascript-plain colored"></i>,
             },
-            // {
-            //     name:"Shell Scripting (Bash)",
-            //     icon: <i class="devicon-bash-plain colored"></i>,
-            // },
+
         ]
     },
 ]
