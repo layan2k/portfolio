@@ -12,7 +12,7 @@ export const WorkData= [
         company:"ALX_AFRICA",
         Role:"Student",
         dateJoining: "01-06-2021",
-        dateEnd:"05-06-2022",
+        dateEnd:"01-07-2022",
         companyLogo: require("../../assets/alx.png"),
         work:"Software Engineering Certificate(1-year). The Program is done under the partnership of ALX and Holberton School.",
 

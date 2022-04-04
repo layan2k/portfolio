@@ -38,6 +38,10 @@ export const SkillsData=
                 name:"Flask",
                 icon:<i class="devicon-flask-original"></i>
             },
+            {
+                name:"Django",
+                icon:<i class="devicon-django-plain-wordmark colored"></i>
+            },
         ]
     },
     {
