@@ -20,7 +20,7 @@ function Contact() {
                         <SubmitForm />
                     </div>
                     <div className="download">
-                        <a download href={require('../../../assets/icons/Resume_Leslie.pdf').default}>
+                        <a download href={require('../../../assets/icons/Resume_Leslie.pdf')}>
                         <i class="fi-rr-cloud-download"></i>
                             Download Resume</a>
                     </div>
