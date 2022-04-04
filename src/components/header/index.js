@@ -9,7 +9,7 @@ function Header() {
         <div className="header">
             <div className="logo">
                 <a href="/">
-                    <img src={require('../../assets/ltdev.png').default} alt="LTDEV" />
+                    <img src={require('../../assets/ltdev.png')} alt="LTDEV" />
                 </a>
             </div>
             <div className="menu">
