@@ -2,7 +2,7 @@ export const ProjectData=[
     {
         id: 1,
         title:"Pixabay Project",
-        about: " Here We Use The API Provided By Pixabay To Load A Pixabay Sort Of Clone WIth React JS. ",
+        about: " Here We Use The API Provided By Pixabay To Load A Pixabay Clone WIth React JS. ",
         tags:["React Js","Pixabay API"],
         demo:"https://priceless-beaver-db33c0.netlify.app/",
         github:"https://github.com/layan2k/pixabay-tailwind-react",
@@ -27,7 +27,7 @@ export const ProjectData=[
     {
         id:3,
         title:"LESTECH, ALX Application",
-        about:"A Near Fully Resposive Static page. I used this as my application for the ALX Software Engineering Programme.",
+        about:"A Near Fully Resposive Static page. This was used in applying for the ALX Software Engineering Programme.",
         tags:["HTML","CSS","JavaScript"],
         github:"https://github.com/layan2k/ALX",
         demo: "https://lestech.netlify.app/",

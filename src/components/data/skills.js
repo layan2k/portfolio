@@ -72,18 +72,18 @@ export const SkillsData=
                 name:"MySQL",
                 icon:<i class="devicon-mysql-plain-wordmark colored"></i>
             },
+            {
+                name:"PostGreSQL",
+                icon:<i class="devicon-postgresql-plain colored"></i>
+            },
         ]
     },
     {
         type:"Programming Languages",
         list:[
             {
-                name:"C Programming",
-                icon:<i class="devicon-c-plain colored"></i>
-            },
-            {
-                name:"C++",
-                icon:<i class="devicon-cplusplus-plain-wordmark colored"></i>
+                name:"Java",
+                icon:<i class="devicon-java-plain-wordmark colored"></i>
             },
             {
                 name:"Python",
