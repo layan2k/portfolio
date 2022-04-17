@@ -6,7 +6,7 @@ export const ProjectData=[
         tags:["React Js","Pixabay API"],
         demo:"https://priceless-beaver-db33c0.netlify.app/",
         github:"https://github.com/layan2k/pixabay-tailwind-react",
-        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VHmBbjyV3qPl1oDpQrOeb6Hh6GHJ661bog&usqp=CAU",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/PixabayProject.png",
     },
     {
         id: 2,
@@ -14,7 +14,7 @@ export const ProjectData=[
         about: " A Multivendor Developed Using WordPress, Dokan and Elementor.",
         tags:["WordPress","Elementor", "Dokan"],
         demo:"https://elevateproto.co/",
-        image:"http://creativeyadleydemo.com/codetestzim/wp-content/uploads/sites/65/2021/09/Screenshot-2021-09-21-093209.png",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/Screenshot+2021-09-21+093209.png",
     },
     // {
     //     id:3,
@@ -31,7 +31,25 @@ export const ProjectData=[
         tags:["HTML","CSS","JavaScript"],
         github:"https://github.com/layan2k/ALX",
         demo: "https://lestech.netlify.app/",
-        image:"http://creativeyadleydemo.com/codetestzim/wp-content/uploads/sites/65/2021/08/lestech.png",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/lestech.png",
+    },
+    {
+        id:4,
+        title:"FireSide Movie App",
+        about:"A Beta Version Of A Movie App Project.",
+        tags:["React","Django","NextJs", "AWS S3 Bucket"],
+        github:"https://github.com/layan2k/fireside-front",
+        demo: "https://fireside.vercel.app/",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/Fireside.png",
+    },
+    {
+        id:5,
+        title:"Agency Site (Basic Landing Page)",
+        about:"A Basic React Landing Page",
+        tags:["React","JavaScript"],
+        github:"https://github.com/layan2k/agency-site",
+        demo: "https://agenctdemolds.netlify.app/",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/AgencySite.png",
     },
 
 ]
