@@ -9,6 +9,10 @@ export const SkillsData=
                 icon:<i class="devicon-react-original colored"></i>,
             },
             {
+                name:"Next JS",
+                icon:<i class="devicon-nextjs-original-wordmark colored"></i>,
+            },
+            {
                 name:"Tailwind CSS",
                 icon: <i class="devicon-tailwindcss-plain colored"></i>,
             },
