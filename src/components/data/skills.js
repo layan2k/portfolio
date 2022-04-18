@@ -97,6 +97,14 @@ export const SkillsData=
                 name:"Javascript",
                 icon:<i class="devicon-javascript-plain colored"></i>,
             },
+            {
+                name:"C Programming",
+                icon:<i class="devicon-c-plain colored"></i>
+            },
+            {
+                name:"C++",
+                icon:<i class="devicon-cplusplus-plain-wordmark colored"></i>
+            }
 
         ]
     },
