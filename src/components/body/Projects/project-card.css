@@ -15,23 +15,26 @@
 }
 .project-title{
     font-size:20px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .project-tags{
     display:flex;
     max-width: 60%;
     flex-wrap: wrap;
+    color: white;
+    font-weight: 600;
 }
 .tag{
     padding: 4px 8px;
-    background-color: aquamarine;
+    background-color: #2568FB;
     border-radius: 4px;
     margin-right:6px ;
     margin-bottom: 4px;
 }
 .project-links a{
     text-decoration: none;
-    color: black;
+    color: white;
+    font-weight: 600;
 }
 .project-links{
     margin-top:6px;
@@ -41,7 +44,7 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    background-color:aquamarine;
+    background-color:#2568FB;
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;
@@ -60,6 +63,9 @@
     }
     .project-card{
         flex-direction: column-reverse;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
     }
     .project-info{
         margin-left:0px;
@@ -67,5 +73,9 @@
     }
     .project-tags{
         max-width: 100%;
+        justify-content: center;
+    }
+    .project-links {
+        justify-content: center;
     }
 }

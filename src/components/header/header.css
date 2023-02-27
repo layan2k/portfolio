@@ -1,15 +1,14 @@
 .header{
     display: flex;
     justify-content:space-between;
-    flex: 1;
-    padding: 12px;
+    width: 100%;
     position: relative;
     align-items: center;
 }
 .menu{
-    background-color:#fff;
+    background-color: black;
+    color: whitesmoke;
     display: flex;
-    flex: 1;
     justify-content:flex-end;
 }
 .menu-icon{
@@ -22,11 +21,8 @@
 .web-menu{
     display: flex;
 }
-.logo{
+.contact-button{
     display: flex;
-    font-size:36px;
-    color:blueviolet;
-    font-weight:800;
 }
 @media only screen and (max-width:720px){
     .mobile-menu{
@@ -35,8 +31,22 @@
     .web-menu{
         display: none;
     }
-    .logo{
-        font-size: 24px;
+    .contact-button{
+        display: none;
     }
 
+}
+
+.in_button {
+    padding: 15px 20px;
+    background-color: #2568FB;
+    color: white;
+    font-size: 18px;
+    border-radius: 16px;
+    margin-left: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.in_button:hover{
+    background-color: blue;
 }

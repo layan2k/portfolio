@@ -16,6 +16,14 @@ function Header() {
                 <div className="web-menu">
                     <Web />
                 </div>
+                <div className="contact-button">
+                <a href='#contact'>
+                <button className='in_button'>
+                    Contact
+                </button>
+
+                </a>
+            </div>
                 <div className="mobile-menu">
                     <div className="menu-icon" onClick={() => setisOpen(!isOpen)}><i class="fi-rr-apps"></i></div>
                     {isOpen && <Mobile isOpen={isOpen} setisOpen={setisOpen} />}

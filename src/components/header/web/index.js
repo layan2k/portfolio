@@ -19,11 +19,6 @@ function Web() {
                 <i class="fi fi-rr-form option-icons"></i>Resume
                 </a>
             </div>
-            <div className="web-option">
-                <a href="#contact" >
-                <i class="fi fi-rr-portrait option-icons"></i>Contact
-                </a>
-            </div>
         </div>
     )
 }

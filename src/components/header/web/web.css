@@ -10,15 +10,15 @@
 }
 .web-option a{
     text-decoration: none;
-    color:black;
+    color:white;
     display:flex;
     align-items:center;
 }
 .web-option a:hover{
-    color:rgba(27, 2, 247, 0.514);
+    color:#2568FB;
 }
 .web-option a:active{
-    color:lime;
+    color:#EA445A;
 }
 .option-icon {
     display: flex;

@@ -21,6 +21,10 @@
 }
 
 @media screen and (max-width:720px){
+    .skills{
+        text-align: center;
+        justify-content: center;
+    }
     .skills-list{
         max-width:100%;
         justify-content:center;

@@ -7,7 +7,7 @@
     align-items: center;
 }
 .picture{
-    height:420px;
+    height:400px;
     width:auto;
 }
 
@@ -15,8 +15,10 @@
     font-size:24px;
 
 }
+
+
 .Name{
-    color: blue;
+    color: #2568FB;
     font-weight: bold;
     font-size: 32px;
 }
@@ -28,11 +30,13 @@
     }
     .picture{
         height: 260px;
-        width: 150px
+        width: 250px;
+        margin: 20px 0;
 
     }
     .about-info{
         font-size:20px;
+        text-align: center;
     }
     .Name{
         font: size 20px;

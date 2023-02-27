@@ -3,3 +3,9 @@
     flex-direction:column;
     flex: 1;
 }
+@media screen and (max-width:720px){
+    .projects{
+        text-align: center;
+
+    }
+}

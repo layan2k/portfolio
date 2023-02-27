@@ -10,3 +10,9 @@
     align-items: center;
     margin: 24px 0;
 }
+@media screen and (max-width:720px){
+    .work{
+        justify-content: center;
+        text-align: center;
+    }
+}
