@@ -51,5 +51,13 @@ export const ProjectData=[
         demo: "https://agenctdemolds.netlify.app/",
         image:"https://firesidebackapp.s3.amazonaws.com/mypics/AgencySite.png",
     },
+    {
+        id:6,
+        title:"Restaurant App",
+        about:"A Restaurant React Native App that uses the Yelp API to get information restaurants and its services ",
+        tags:["React Native","JavaScript", "Yelp"],
+        github:"https://github.com/layan2k/restuarant-search",
+        image:"https://firesidebackapp.s3.amazonaws.com/mypics/AgencySite.png",
+    },
 
 ]

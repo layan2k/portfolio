@@ -13,6 +13,10 @@ export const SkillsData=
                 icon:<i class="devicon-javascript-plain colored"></i>,
             },
             {
+                name:"Java",
+                icon: <i class="devicon-java-plain"></i>,
+            },
+            {
                 name:"React JS",
                 icon:<i class="devicon-react-original colored"></i>,
             },
@@ -37,8 +41,8 @@ export const SkillsData=
                 icon:<i class="devicon-django-plain-wordmark colored"></i>
             },
             {
-                 name:"Shell Scripting (Bash)",
-                 icon: <i class="devicon-bash-plain colored"></i>,
+                name:"Shell Scripting (Bash)",
+                icon: <i class="devicon-bash-plain colored"></i>,
             },
             {
                 name:"MongoDB",
